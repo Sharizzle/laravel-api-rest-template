@@ -103,7 +103,7 @@ php artisan migrate
 php artisan make:controller ProductController --api
 ```
 
-### Make Routes
+### Show Routes
 
 ```bash
 php artisan route:list
